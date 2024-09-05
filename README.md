@@ -1,3 +1,3 @@
-# Hosting-a-Web-App-on-Google-Cloud-Using-Compute-Engine
+# Google cloud projects
 make shur it run's with administrator priveleges
 
